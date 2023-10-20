@@ -17,7 +17,7 @@ source .env
 ### RODANDO SCRIPTS
 python3 <nome_arquivo>
 
-# Configurar o git
+## Configurar o git
 git config --global user.name 'Seu nome'
 git config --global user.email 'seu_email@gmail.com'
 git config --global init.defaultBranch main
